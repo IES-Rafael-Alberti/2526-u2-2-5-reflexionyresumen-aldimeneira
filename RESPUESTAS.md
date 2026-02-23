@@ -1,4 +1,4 @@
-# RESPUESTAS — Reflexión y Resumen (Plantilla genérica)
+# RESPUESTAS — Reflexión y Resumen 
 
 > **Actividad / ID:**  Reflexión y Resumen
 > **Unidad / Tema:**  UD 2: Análisis de incidentes de ciberseguridad
