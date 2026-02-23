@@ -1,1 +1,1 @@
-[Ver respuestas completas](respuestas.md)
+[Ver respuestas](RESPUESTAS.md)
